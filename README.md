@@ -1,2 +1,0 @@
-# Gitdemo
-Amit Bouri
